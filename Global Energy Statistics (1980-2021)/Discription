@@ -1,0 +1,15 @@
+This dataset contains information on world energy statistics. The dataset is comprised of 11 CSV files and details of each CSV is given below 
+(All the information is in the Quadrillion British Thermal Unit):
+
+Below files contain the Yearly data from 1980 to 2021
+
+Production_Total : Total Energy Production
+Production_Coal : energy production from coal
+Production_NaturalGas : energy production from NaturalGas
+Production_Nuclear+renewables : energy production from Nuclear+renewables
+Production_Pertroleum : energy production from Pertroleum
+Consumption_Total : Total Consumption Production
+Consumption_Coal : energy Consumption from coal
+Consumption_NaturalGas : energy Consumption from NaturalGas
+Consumption_Nuclear+renewables : energy Consumption from Nuclear+renewables
+Consumption_Pertroleum : energy Consumption from Pertroleum
